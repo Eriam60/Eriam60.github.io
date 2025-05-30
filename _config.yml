@@ -46,7 +46,8 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Bonjour, je m'appelle Julien.
 
-  Après une licence 2 en math/info, je me réoriente vers un <mark>bts SIO option SLAM</mark>. |
+  Après une licence 2 en math/info, je me réoriente vers un <mark>bts SIO option SLAM</mark>.
+  
   Déterminé, sérieux, autonome et conscient du travail qui m'attend, je suis très motivé à rentrer dans le monde du travail.
 
 content:
