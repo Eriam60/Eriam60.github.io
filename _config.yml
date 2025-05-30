@@ -66,6 +66,10 @@ content:
 
        programmation orientée objet :
       - Java
+
+      langues :
+      - Anglais courant 
+      - espagnol scolaire
       
 
   - title: Projets # Title for the section
@@ -125,10 +129,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Lycée Jeanne Hachette
+        caption: 2017 - 2020
+        sub_title: baccalauréat scientifique
+
+      - layout: left
         title: Université de Picardie Jules Verne
         caption: 2020 - 2025
         sub_title: licence 2 informatique
-        
         description: | # this will include new lines to allow paragraphs
           Apprentissage de plusieurs langages informatique et réalisation de plusieurs projets individuels et projets de groupes. Les différents travaux à réaliser m'ont permis d'acquérir une autonomie dans mon travail ainsi qu'une capacité à travailler en groupe (voir Parc d'attraction).
 
