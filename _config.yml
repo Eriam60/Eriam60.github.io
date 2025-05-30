@@ -52,13 +52,13 @@ content:
     content: | # this will include new lines to allow paragraphs
       liste des langages de programmation maitrisés :
       - python 
-      - C
-      développement web :
+      - C 
+       développement web :
       - HTML/CSS
       - PHP
       - Javascript
       - SQL (Oracle)
-      programmation orientée objet :
+       programmation orientée objet :
       - Java
       
 
