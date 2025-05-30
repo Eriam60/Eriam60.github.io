@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Julien MAIRE
-title: Recherche d'alternance
+title: Recherche d'une alternance en informatique
 email: julien.maire0622@gmail.com
 
 # Dark Mode (true/false/never)
@@ -82,6 +82,11 @@ content:
     content:
       - layout: left
         title: SDIS60
+        sub_title: Jeunes Sapeurs pompiers
+        caption: 2015 - 2019
+        quote: > 
+          Jeunes sapeurs pompiers
+        description: |
 
         # link_text: boringcompany.com
         sub_title: Sapeur pompier volontaire
