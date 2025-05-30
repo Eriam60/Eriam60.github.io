@@ -47,7 +47,7 @@ about_content: | # this will include new lines to allow paragraphs
   Bonjour, je m'appelle Julien. Après une licence 2 en math/info, je me réoriente vers un <mark>bts SIO option SLAM</mark>. Déterminé, sérieux, autonome et conscient du travail qui m'attend, je suis très motivé à rentrer dans le monde du travail
 
 content:
-  - title: Projects # Title for the section
+  - title: Projets # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -97,9 +97,10 @@ content:
         caption: 2019 - 2021
 
         description: | # this will include new lines to allow paragraphs
-            Pendant 2 années en caserne j'ai pu approfondir mes connaissances et mes formations de jeunes sapeurs pompiers
+            Pendant 2 années en caserne j'ai pu approfondir mes connaissances et mes formations de jeunes sapeurs pompiers 
+            et appliquer les différentes manoeuvres apprises en intervention.
 
-  - title: Education # Title for the section
+  - title: Éducation # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -108,7 +109,7 @@ content:
         sub_title: licence 2 informatique
         
         description: | # this will include new lines to allow paragraphs
-          Apprentissage de plusieurs langages informatique et réalisation de plusieurs projets individuels et projets de groupes. Les différents travaux à réaliser m'ont permis d'acquérir une autonomie dans mon travail ainsi qu'une capacité à travailler engroupe.
+          Apprentissage de plusieurs langages informatique et réalisation de plusieurs projets individuels et projets de groupes. Les différents travaux à réaliser m'ont permis d'acquérir une autonomie dans mon travail ainsi qu'une capacité à travailler en groupe (voir parc d'attraction).
 
   - title: À propos de moi
     layout: text
