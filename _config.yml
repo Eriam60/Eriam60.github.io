@@ -44,7 +44,7 @@ github_username:  Eriam60
 about_title: À propos de moi
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Bonjour, je m'appelle Julien. Après une licence 2 en math/info, je me réoriente vers un <mark>bts SIO option SLAM</mark>. Déterminé, sérieux, autonome et conscient du travail qui m'attend, je suis très motivé à rentrer dans le monde du travail
+  Bonjour, je m'appelle Julien. Après une licence 2 en math/info, je me réoriente vers un <mark>bts SIO option SLAM</mark>. Déterminé, sérieux, autonome et conscient du travail qui m'attend, je suis très motivé à rentrer dans le monde du travail.
 
 content:
   - title: Projets # Title for the section
@@ -64,12 +64,13 @@ content:
         quote: >
           Création d’un site de gestion de budget et visualisation graphique des données
         description: |
-          Application web qui permet de visualiser et agréger les dépenses hebdomadaires, mensuels et annuels de l'utilisateur.
+          J'ai developpé une application web qui permet de visualiser et d'agréger les dépenses hebdomadaires, mensuels et annuels de l'utilisateur. 
+          Pour cela j'ai utilisé du <mark>python</mark>.
 
       
 
       - layout: top-middle
-        title: parc d'attraction
+        title: Parc d'attraction
         quote: >
          Création d'un site de gestion d'un parc d'attraction fictif et de sa base de données
         description: | 
@@ -77,7 +78,7 @@ content:
 
 
 
-  - title: Experience # Title for the section
+  - title: Expériences # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -109,7 +110,7 @@ content:
         sub_title: licence 2 informatique
         
         description: | # this will include new lines to allow paragraphs
-          Apprentissage de plusieurs langages informatique et réalisation de plusieurs projets individuels et projets de groupes. Les différents travaux à réaliser m'ont permis d'acquérir une autonomie dans mon travail ainsi qu'une capacité à travailler en groupe (voir parc d'attraction).
+          Apprentissage de plusieurs langages informatique et réalisation de plusieurs projets individuels et projets de groupes. Les différents travaux à réaliser m'ont permis d'acquérir une autonomie dans mon travail ainsi qu'une capacité à travailler en groupe (voir Parc d'attraction).
 
   - title: À propos de moi
     layout: text
