@@ -88,6 +88,8 @@ content:
           Jeunes sapeurs pompiers
         description: |
 
+      - layout: left
+        title: SDIS60
         # link_text: boringcompany.com
         sub_title: Sapeur pompier volontaire
         caption: 2019 - 2021
