@@ -47,6 +47,21 @@ about_content: | # this will include new lines to allow paragraphs
   Bonjour, je m'appelle Julien. Après une licence 2 en math/info, je me réoriente vers un <mark>bts SIO option SLAM</mark>. Déterminé, sérieux, autonome et conscient du travail qui m'attend, je suis très motivé à rentrer dans le monde du travail.
 
 content:
+  - title: Compétences
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      liste des langages de programmation maitrisés :
+      - python 
+      - C
+      développement web :
+      - HTML/CSS
+      - PHP
+      - Javascript
+      - SQL (Oracle)
+      programmation orientée objet :
+      - Java
+      
+
   - title: Projets # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -65,16 +80,15 @@ content:
           Création d’un site de gestion de budget et visualisation graphique des données
         description: |
           J'ai developpé une application web qui permet de visualiser et d'agréger les dépenses hebdomadaires, mensuels et annuels de l'utilisateur. 
-          Pour cela j'ai utilisé du <mark>python</mark>.
-
+          Le but était de me familiariser avec <mark>python</mark> dans un temps assez court.
       
-
       - layout: top-middle
         title: Parc d'attraction
         quote: >
          Création d'un site de gestion d'un parc d'attraction fictif et de sa base de données
         description: | 
           Site web regroupant les différentes attractions, les différents commerces et les différents employés d'un parc d'attraction fictif.
+          Grace à ce projet j'ai pu manipuler une base de données Oracle au travers d'un site PHP.
 
 
 
@@ -83,7 +97,7 @@ content:
     content:
       - layout: left
         title: SDIS60
-        sub_title: Jeunes Sapeurs pompiers
+        sub_title: Jeunes Sapeurs Pompiers
         caption: 2015 - 2019
 
         description: |
@@ -94,7 +108,7 @@ content:
       - layout: left
         title: SDIS60
         # link_text: boringcompany.com
-        sub_title: Sapeur pompier volontaire
+        sub_title: Sapeur Pompier Volontaire
         caption: 2019 - 2021
 
         description: | # this will include new lines to allow paragraphs
