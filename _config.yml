@@ -84,17 +84,18 @@ content:
         title: SDIS60
         sub_title: Jeunes Sapeurs pompiers
         caption: 2015 - 2019
-        quote: > 
-          Jeunes sapeurs pompiers
+
         description: |
+          Pendant ces 4 années de formation en caserne j'ai appris les différentes manoeuvres incendie, de secourisme, de sauvetage et manoeuvres diverses.
+          J'ai également à travailler en équipe ainsi qu'à respecter une hiérarchie stricte.
+
 
       - layout: left
         title: SDIS60
         # link_text: boringcompany.com
         sub_title: Sapeur pompier volontaire
         caption: 2019 - 2021
-        quote: >
-          sapeur pompier volontaire
+
         description: | # this will include new lines to allow paragraphs
             Pendant 2 années en caserne j'ai pu approfondir mes connaissances et mes formations de jeunes sapeurs pompiers
 
